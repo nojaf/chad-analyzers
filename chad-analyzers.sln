@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nojaf.Chad.Analyzers", "Nojaf.Chad.Analyzers\Nojaf.Chad.Analyzers.fsproj", "{60342E9E-036F-4495-9932-20277FA1A375}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Nojaf.Chad.Analyzers.Tests", "Nojaf.Chad.Analyzers.Tests\Nojaf.Chad.Analyzers.Tests.fsproj", "{1C60BC25-1C41-440C-A5A4-7FE67CD7BA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60342E9E-036F-4495-9932-20277FA1A375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60342E9E-036F-4495-9932-20277FA1A375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60342E9E-036F-4495-9932-20277FA1A375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60342E9E-036F-4495-9932-20277FA1A375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C60BC25-1C41-440C-A5A4-7FE67CD7BA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C60BC25-1C41-440C-A5A4-7FE67CD7BA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C60BC25-1C41-440C-A5A4-7FE67CD7BA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C60BC25-1C41-440C-A5A4-7FE67CD7BA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
